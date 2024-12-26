@@ -1,0 +1,1 @@
+window.isRU=!0;
